@@ -1,3 +1,5 @@
+This repo combines multiple sources to help me learn about recommendation systems.
+
 # pg2dm-python
 
 Python code for the free book [A Programmer's Guide to Data Mining](http://guidetodatamining.com)
